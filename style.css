@@ -1,0 +1,13 @@
+canvas{
+    border-width: 5px;
+    border-style: solid;
+    border-color: lightcyan;
+    padding: 5px;
+}
+#song_name, #heading{
+    color: blue;
+    font-size: 22px;
+}
+body{
+    background-size: cover;
+}
